@@ -1,4 +1,4 @@
-#Artificial Intelligance
+# Artificial Intelligance
 
 **OpenAI launches AI models it says are capable of reasoning**
 
